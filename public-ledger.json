@@ -1786,14 +1786,15 @@
    "id": "cfb-401858481-IU-+7.5--105",
    "date": "2026-10-07",
    "game": "IU @ NEB",
-   "pick": "IU +7.5 -105",
-   "market": "spread +7.5",
+   "pick": "IU -7.5 -105",
+   "market": "spread -7.5",
    "book": "DraftKings",
    "odds": "-105",
    "status": "open",
    "result": null,
    "pnl_units": null,
-   "why": "DraftKings is listing IU -7.5 -105 right now. Date root 3 backs IU name number 9 (score 60.0 vs NEB 42.8). Cover/margin ticket — ML is past the −180 juice guard, so take the number at 0.5u."
+   "why": "DraftKings is listing IU -7.5 -105 right now. Date root 3 backs IU name number 9 (score 60.0 vs NEB 42.8). Cover/margin ticket — ML is past the −180 juice guard, so take the number at 0.5u.",
+   "correction": "Corrected 2026-10-08 10:31 AM ET, before kickoff: logged as 'IU +7.5' but the ticket's own reasoning and the book line were the minus side. Sign recording error, fixed openly. Original row kept in the audit backup."
   },
   {
    "id": "nfl-401872981-PHI-ML-+290",
@@ -1890,14 +1891,15 @@
    "id": "nba-401901823-PHI-+6.5--108",
    "date": "2026-10-08",
    "game": "PHI @ BKN",
-   "pick": "PHI +6.5 -108",
-   "market": "spread +6.5",
+   "pick": "PHI -6.5 -108",
+   "market": "spread -6.5",
    "book": "FanDuel",
    "odds": "-108",
    "status": "open",
    "result": null,
    "pnl_units": null,
-   "why": "FanDuel is listing PHI -6.5 -108 right now."
+   "why": "FanDuel is listing PHI -6.5 -108 right now.",
+   "correction": "Corrected 2026-10-08 10:31 AM ET, before kickoff: logged as 'PHI +6.5' but the ticket's own reasoning and the book line were the minus side. Sign recording error, fixed openly. Original row kept in the audit backup."
   },
   {
    "id": "nba-401906508-WSH-ML-+225",
