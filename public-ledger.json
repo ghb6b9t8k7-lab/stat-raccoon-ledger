@@ -1,12 +1,12 @@
 {
  "schema": "stat-raccoon-public-ledger/1",
- "updated": "2026-10-07T09:15:19.816329-04:00",
+ "updated": "2026-10-08T09:16:38.412130-04:00",
  "record": {
-  "wins": 43,
-  "losses": 60,
+  "wins": 48,
+  "losses": 63,
   "pushes": 1,
-  "open": 21,
-  "units_net": -4.64
+  "open": 27,
+  "units_net": -3.42
  },
  "picks": [
   {
@@ -1435,9 +1435,10 @@
    "market": "moneyline",
    "book": "DraftKings",
    "odds": "+180",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -0.5,
+   "final_score": "FIU 22, NMSU 3",
    "why": "DraftKings is listing NMSU ML +180 right now. Date root 9 backs NMSU name number 3 (score 74.2 vs FIU 62.0). Take 0.5u at that posted price."
   },
   {
@@ -1678,9 +1679,10 @@
    "market": "moneyline",
    "book": "FanDuel",
    "odds": "-118",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -0.5,
+   "final_score": "CLE 9, CHW 3",
    "why": "FanDuel is listing CHW ML -118 right now. Date root 9 backs CHW name number 6 (score 72.0 vs CLE 50.0). Take 0.5u at that posted price."
   },
   {
@@ -1691,9 +1693,10 @@
    "market": "moneyline",
    "book": "FanDuel",
    "odds": "-148",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "win",
+   "pnl_units": 0.34,
+   "final_score": "LAD 4, ATL 1",
    "why": "FanDuel is listing LAD ML -148 right now. Date root 9 backs LAD name number 9 (score 84.6 vs ATL 50.0). Take 0.5u at that posted price."
   },
   {
@@ -1704,9 +1707,10 @@
    "market": "moneyline",
    "book": "BetMGM",
    "odds": "-160",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "win",
+   "pnl_units": 0.31,
+   "final_score": "WSH 5, PIT 3",
    "why": "BetMGM is listing WSH ML -160 right now. Date root 9 backs WSH name number 9 (score 94.0 vs PIT 65.4). Take 0.5u at that posted price."
   },
   {
@@ -1717,9 +1721,10 @@
    "market": "moneyline",
    "book": "ESPN BET",
    "odds": "+157",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "win",
+   "pnl_units": 0.79,
+   "final_score": "WPG 3, COL 2",
    "why": "ESPN BET is listing WPG ML +157 right now. Date root 9 backs WPG name number 9 (score 86.8 vs COL 58.8). Take 0.5u at that posted price."
   },
   {
@@ -1730,9 +1735,10 @@
    "market": "moneyline",
    "book": "PointsBet",
    "odds": "+143",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "win",
+   "pnl_units": 0.71,
+   "final_score": "TB 4, NYY 3",
    "why": "PointsBet is listing TB ML +143 right now. Date root 9 backs TB name number 9 (score 86.8 vs NYY 50.0). Take 0.5u at that posted price."
   },
   {
@@ -1743,9 +1749,10 @@
    "market": "spread -15.5",
    "book": "ESPN BET",
    "odds": "-105",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -0.5,
+   "final_score": "MIL 128, OKC 126",
    "why": "ESPN BET is listing OKC -15.5 -105 right now. Date root 9 backs OKC name number 9 (score 86.8 vs MIL 50.0). Cover/margin ticket — ML is past the −180 juice guard, so take the number at 0.5u."
   },
   {
@@ -1756,9 +1763,10 @@
    "market": "moneyline",
    "book": "ESPN BET",
    "odds": "+115",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "win",
+   "pnl_units": 0.57,
+   "final_score": "CHI 124, PHX 117",
    "why": "ESPN BET is listing CHI ML +115 right now. Date root 9 backs CHI name number 3 (score 80.8 vs PHX 58.8). Take 0.5u at that posted price."
   },
   {
@@ -1825,6 +1833,188 @@
    "result": null,
    "pnl_units": null,
    "why": "FanDuel is listing PIT ML -134 right now. Date root 4 backs PIT name number 4 (score 98.8 vs IND 66.0). Take 0.5u at that posted price."
+  },
+  {
+   "id": "nhl-401892457-BOS-ML-+107",
+   "date": "2026-10-08",
+   "game": "UTAH @ BOS",
+   "pick": "BOS ML +107",
+   "market": "moneyline",
+   "book": "BetRivers",
+   "odds": "+107",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "BetRivers is listing BOS ML +107 right now."
+  },
+  {
+   "id": "nhl-401892458-BUF-ML-+104",
+   "date": "2026-10-08",
+   "game": "DAL @ BUF",
+   "pick": "BUF ML +104",
+   "market": "moneyline",
+   "book": "BetRivers",
+   "odds": "+104",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "BetRivers is listing BUF ML +104 right now."
+  },
+  {
+   "id": "nhl-401892459-NSH-ML-+155",
+   "date": "2026-10-08",
+   "game": "NSH @ MTL",
+   "pick": "NSH ML +155",
+   "market": "moneyline",
+   "book": "BetRivers",
+   "odds": "+155",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "BetRivers is listing NSH ML +155 right now."
+  },
+  {
+   "id": "nhl-401892460-TB-ML--145",
+   "date": "2026-10-08",
+   "game": "MIN @ TB",
+   "pick": "TB ML -145",
+   "market": "moneyline",
+   "book": "BetMGM",
+   "odds": "-145",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "BetMGM is listing TB ML -145 right now."
+  },
+  {
+   "id": "nba-401901823-PHI-+6.5--108",
+   "date": "2026-10-08",
+   "game": "PHI @ BKN",
+   "pick": "PHI +6.5 -108",
+   "market": "spread +6.5",
+   "book": "FanDuel",
+   "odds": "-108",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "FanDuel is listing PHI -6.5 -108 right now."
+  },
+  {
+   "id": "nba-401906508-WSH-ML-+225",
+   "date": "2026-10-08",
+   "game": "WSH @ NY",
+   "pick": "WSH ML +225",
+   "market": "moneyline",
+   "book": "BetRivers",
+   "odds": "+225",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "BetRivers is listing WSH ML +225 right now."
+  },
+  {
+   "id": "nhl-401892462-CHI-ML-+165",
+   "date": "2026-10-08",
+   "game": "CHI @ NYI",
+   "pick": "CHI ML +165",
+   "market": "moneyline",
+   "book": "BetRivers",
+   "odds": "+165",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "BetRivers is listing CHI ML +165 right now."
+  },
+  {
+   "id": "nba-401898394-ATL-ML-+260",
+   "date": "2026-10-08",
+   "game": "ATL @ SA",
+   "pick": "ATL ML +260",
+   "market": "moneyline",
+   "book": "PointsBet",
+   "odds": "+260",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "PointsBet is listing ATL ML +260 right now."
+  },
+  {
+   "id": "nhl-401891825-STL-ML--142",
+   "date": "2026-10-08",
+   "game": "SJ @ STL",
+   "pick": "STL ML -142",
+   "market": "moneyline",
+   "book": "PointsBet",
+   "odds": "-142",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "PointsBet is listing STL ML -142 right now."
+  },
+  {
+   "id": "nhl-401892464-VGK-ML--170",
+   "date": "2026-10-08",
+   "game": "TOR @ VGK",
+   "pick": "VGK ML -170",
+   "market": "moneyline",
+   "book": "DraftKings",
+   "odds": "-170",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "DraftKings is listing VGK ML -170 right now."
+  },
+  {
+   "id": "cfb-401856823-WVU-ML-+140",
+   "date": "2026-10-08",
+   "game": "ARIZ @ WVU",
+   "pick": "WVU ML +140",
+   "market": "moneyline",
+   "book": "PointsBet",
+   "odds": "+140",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "PointsBet is listing WVU ML +140 right now."
+  },
+  {
+   "id": "nfl-401872988-WSH--3.5--110",
+   "date": "2026-10-08",
+   "game": "NYG @ WSH",
+   "pick": "WSH -3.5 -110",
+   "market": "spread -3.5",
+   "book": "BetMGM",
+   "odds": "-110",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "BetMGM is listing WSH -3.5 -110 right now."
+  },
+  {
+   "id": "nfl-401872989-LAC-ML-+155",
+   "date": "2026-10-08",
+   "game": "DEN @ LAC",
+   "pick": "LAC ML +155",
+   "market": "moneyline",
+   "book": "BetRivers",
+   "odds": "+155",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "BetRivers is listing LAC ML +155 right now."
+  },
+  {
+   "id": "nfl-401872992-SEA-ML--157",
+   "date": "2026-10-08",
+   "game": "SF @ SEA",
+   "pick": "SEA ML -157",
+   "market": "moneyline",
+   "book": "BetRivers",
+   "odds": "-157",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "BetRivers is listing SEA ML -157 right now."
   }
  ]
 }
