@@ -1,12 +1,12 @@
 {
  "schema": "stat-raccoon-public-ledger/1",
- "updated": "2026-10-08T09:16:38.412130-04:00",
+ "updated": "2026-10-09T09:25:03.408970-04:00",
  "record": {
-  "wins": 48,
-  "losses": 63,
+  "wins": 56,
+  "losses": 69,
   "pushes": 1,
-  "open": 27,
-  "units_net": -3.42
+  "open": 18,
+  "units_net": 0.55
  },
  "picks": [
   {
@@ -1449,9 +1449,10 @@
    "market": "moneyline",
    "book": "Caesars",
    "odds": "+490",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -0.25,
+   "final_score": "LIB 35, SHSU 3",
    "why": "Caesars is listing SHSU ML +490 right now. Date root 1 backs SHSU name number 5 (score 86.2 vs LIB 50.0). Longshot past +400 — take 0.25u (max) at that posted price."
   },
   {
@@ -1462,9 +1463,10 @@
    "market": "moneyline",
    "book": "Caesars",
    "odds": "+235",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -0.5,
+   "final_score": "UTSA 31, USF 24",
    "why": "Caesars is listing USF ML +235 right now. Date root 1 backs USF name number 3 (score 56.6 vs UTSA 44.6). Take 0.5u at that posted price."
   },
   {
@@ -1475,9 +1477,10 @@
    "market": "moneyline",
    "book": "BetMGM",
    "odds": "+100",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "win",
+   "pnl_units": 0.5,
+   "final_score": "USA 56, ARST 49",
    "why": "BetMGM is listing USA ML +100 right now. Date root 1 backs USA name number 5 (score 74.2 vs ARST 58.8). Take 0.5u at that posted price."
   },
   {
@@ -1777,9 +1780,10 @@
    "market": "moneyline",
    "book": "FanDuel",
    "odds": "+370",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "win",
+   "pnl_units": 1.85,
+   "final_score": "TB 24, DAL 16",
    "why": "FanDuel is listing TB ML +370 right now. Date root 1 backs TB name number 1 (score 94.0 vs DAL 66.0). Take 0.5u at that posted price."
   },
   {
@@ -1843,9 +1847,10 @@
    "market": "moneyline",
    "book": "BetRivers",
    "odds": "+107",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "win",
+   "pnl_units": 0.54,
+   "final_score": "BOS 6, UTA 1",
    "why": "BetRivers is listing BOS ML +107 right now."
   },
   {
@@ -1856,9 +1861,10 @@
    "market": "moneyline",
    "book": "BetRivers",
    "odds": "+104",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -0.5,
+   "final_score": "DAL 4, BUF 0",
    "why": "BetRivers is listing BUF ML +104 right now."
   },
   {
@@ -1869,9 +1875,10 @@
    "market": "moneyline",
    "book": "BetRivers",
    "odds": "+155",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "win",
+   "pnl_units": 0.78,
+   "final_score": "NSH 5, MTL 2",
    "why": "BetRivers is listing NSH ML +155 right now."
   },
   {
@@ -1882,9 +1889,10 @@
    "market": "moneyline",
    "book": "BetMGM",
    "odds": "-145",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "win",
+   "pnl_units": 0.34,
+   "final_score": "TB 3, MIN 2",
    "why": "BetMGM is listing TB ML -145 right now."
   },
   {
@@ -1895,9 +1903,10 @@
    "market": "spread -6.5",
    "book": "FanDuel",
    "odds": "-108",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -0.5,
+   "final_score": "BKN 114, PHI 108",
    "why": "FanDuel is listing PHI -6.5 -108 right now.",
    "correction": "Corrected 2026-10-08 10:31 AM ET, before kickoff: logged as 'PHI +6.5' but the ticket's own reasoning and the book line were the minus side. Sign recording error, fixed openly. Original row kept in the audit backup."
   },
@@ -1909,9 +1918,10 @@
    "market": "moneyline",
    "book": "BetRivers",
    "odds": "+225",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "win",
+   "pnl_units": 1.12,
+   "final_score": "WSH 111, NY 109",
    "why": "BetRivers is listing WSH ML +225 right now."
   },
   {
@@ -1922,9 +1932,10 @@
    "market": "moneyline",
    "book": "BetRivers",
    "odds": "+165",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -0.5,
+   "final_score": "NYI 4, CHI 1",
    "why": "BetRivers is listing CHI ML +165 right now."
   },
   {
@@ -1935,9 +1946,10 @@
    "market": "moneyline",
    "book": "PointsBet",
    "odds": "+260",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "win",
+   "pnl_units": 1.3,
+   "final_score": "ATL 123, SA 116",
    "why": "PointsBet is listing ATL ML +260 right now."
   },
   {
@@ -1948,9 +1960,10 @@
    "market": "moneyline",
    "book": "PointsBet",
    "odds": "-142",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -0.5,
+   "final_score": "SJ 3, STL 2",
    "why": "PointsBet is listing STL ML -142 right now."
   },
   {
@@ -1961,9 +1974,10 @@
    "market": "moneyline",
    "book": "DraftKings",
    "odds": "-170",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "win",
+   "pnl_units": 0.29,
+   "final_score": "VGK 4, TOR 3",
    "why": "DraftKings is listing VGK ML -170 right now."
   },
   {
@@ -2017,6 +2031,71 @@
    "result": null,
    "pnl_units": null,
    "why": "BetRivers is listing SEA ML -157 right now."
+  },
+  {
+   "id": "nhl-401892466-WSH-ML--144",
+   "date": "2026-10-09",
+   "game": "NYR @ WSH",
+   "pick": "WSH ML -144",
+   "market": "moneyline",
+   "book": "FanDuel",
+   "odds": "-144",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "FanDuel is listing WSH ML -144 right now."
+  },
+  {
+   "id": "nhl-401892468-ANA-ML-+105",
+   "date": "2026-10-09",
+   "game": "ANA @ WPG",
+   "pick": "ANA ML +105",
+   "market": "moneyline",
+   "book": "Consensus",
+   "odds": "+105",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "ANA ML +105 is the consensus price right now (check your book)."
+  },
+  {
+   "id": "cfb-401862795-ARMY-ML--160",
+   "date": "2026-10-09",
+   "game": "TULN @ ARMY",
+   "pick": "ARMY ML -160",
+   "market": "moneyline",
+   "book": "BetMGM",
+   "odds": "-160",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "BetMGM is listing ARMY ML -160 right now."
+  },
+  {
+   "id": "cfb-401866436-SAC-ML-+260",
+   "date": "2026-10-09",
+   "game": "SAC @ BGSU",
+   "pick": "SAC ML +260",
+   "market": "moneyline",
+   "book": "FanDuel",
+   "odds": "+260",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "FanDuel is listing SAC ML +260 right now."
+  },
+  {
+   "id": "cfb-401866440-MASS-ML-+110",
+   "date": "2026-10-09",
+   "game": "M-OH @ MASS",
+   "pick": "MASS ML +110",
+   "market": "moneyline",
+   "book": "Opening line",
+   "odds": "+110",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "MASS ML +110 is the opening-line price right now (check your book)."
   }
  ]
 }
