@@ -1,12 +1,12 @@
 {
  "schema": "stat-raccoon-public-ledger/1",
- "updated": "2026-10-12T09:31:06.767353-04:00",
+ "updated": "2026-10-13T09:18:00-04:00",
  "record": {
-  "wins": 74,
-  "losses": 94,
+  "wins": 75,
+  "losses": 98,
   "pushes": 1,
-  "open": 16,
-  "units_net": -2.11
+  "open": 25,
+  "units_net": -3.48
  },
  "picks": [
   {
@@ -2473,9 +2473,10 @@
    "market": "spread -8.5",
    "book": "FanDuel",
    "odds": "-102",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -0.5,
+   "final_score": "ATL 113, OKC 110",
    "why": "FanDuel is listing ATL -8.5 -102 right now."
   },
   {
@@ -2486,9 +2487,10 @@
    "market": "moneyline",
    "book": "FanDuel",
    "odds": "-140",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -0.5,
+   "final_score": "BKN 131, WSH 122",
    "why": "FanDuel is listing WSH ML -140 right now."
   },
   {
@@ -2499,9 +2501,10 @@
    "market": "moneyline",
    "book": "FanDuel",
    "odds": "-164",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -0.5,
+   "final_score": "CLE 7, TB 3",
    "why": "FanDuel is listing TB ML -164 right now."
   },
   {
@@ -2512,9 +2515,10 @@
    "market": "moneyline",
    "book": "Book 123",
    "odds": "-102",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -0.5,
+   "final_score": "MIN 4, VGK 2",
    "why": "Book 123 is listing VGK ML -102 right now."
   },
   {
@@ -2525,9 +2529,10 @@
    "market": "moneyline",
    "book": "FanDuel",
    "odds": "+126",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "win",
+   "pnl_units": 0.63,
+   "final_score": "UTAH 119, SA 109",
    "why": "FanDuel is listing UTAH ML +126 right now."
   },
   {
@@ -2672,6 +2677,188 @@
    "result": null,
    "pnl_units": null,
    "why": "FanDuel is listing WVU ML -118 right now."
+  },
+  {
+   "id": "nhl-401892488-DET-ML--108",
+   "date": "2026-10-13",
+   "game": "NJ @ DET",
+   "pick": "DET ML -108",
+   "market": "moneyline",
+   "book": "Book 71",
+   "odds": "-108",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "Book 71 is listing DET ML -108 right now."
+  },
+  {
+   "id": "nhl-401892489-CBJ-ML--122",
+   "date": "2026-10-13",
+   "game": "FLA @ CBJ",
+   "pick": "CBJ ML -122",
+   "market": "moneyline",
+   "book": "FanDuel",
+   "odds": "-122",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "FanDuel is listing CBJ ML -122 right now."
+  },
+  {
+   "id": "nhl-401892490-MTL-ML--155",
+   "date": "2026-10-13",
+   "game": "BUF @ MTL",
+   "pick": "MTL ML -155",
+   "market": "moneyline",
+   "book": "DraftKings",
+   "odds": "-155",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "DraftKings is listing MTL ML -155 right now."
+  },
+  {
+   "id": "nhl-401892491-WSH-ML-+135",
+   "date": "2026-10-13",
+   "game": "WSH @ CAR",
+   "pick": "WSH ML +135",
+   "market": "moneyline",
+   "book": "BetMGM",
+   "odds": "+135",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "BetMGM is listing WSH ML +135 right now."
+  },
+  {
+   "id": "nba-401898403-ORL-ML-+100",
+   "date": "2026-10-13",
+   "game": "CLE @ ORL",
+   "pick": "ORL ML +100",
+   "market": "moneyline",
+   "book": "Book 123",
+   "odds": "+100",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "Book 123 is listing ORL ML +100 right now."
+  },
+  {
+   "id": "nhl-401892492-SEA-ML-+102",
+   "date": "2026-10-13",
+   "game": "SEA @ PHI",
+   "pick": "SEA ML +102",
+   "market": "moneyline",
+   "book": "FanDuel",
+   "odds": "+102",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "FanDuel is listing SEA ML +102 right now."
+  },
+  {
+   "id": "nhl-401892494-OTT-ML--115",
+   "date": "2026-10-13",
+   "game": "STL @ OTT",
+   "pick": "OTT ML -115",
+   "market": "moneyline",
+   "book": "Consensus",
+   "odds": "-115",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "OTT ML -115 is the consensus price right now (check your book)."
+  },
+  {
+   "id": "nhl-401892495-VAN-ML-+185",
+   "date": "2026-10-13",
+   "game": "VAN @ NYI",
+   "pick": "VAN ML +185",
+   "market": "moneyline",
+   "book": "BetMGM",
+   "odds": "+185",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "BetMGM is listing VAN ML +185 right now."
+  },
+  {
+   "id": "nba-401908621-OKC--10.5--105",
+   "date": "2026-10-13",
+   "game": "IND @ OKC",
+   "pick": "OKC -10.5 -105",
+   "market": "spread -10.5",
+   "book": "Book 123",
+   "odds": "-105",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "Book 123 is listing OKC -10.5 -105 right now."
+  },
+  {
+   "id": "nhl-401892496-PIT-ML--144",
+   "date": "2026-10-13",
+   "game": "PIT @ CHI",
+   "pick": "PIT ML -144",
+   "market": "moneyline",
+   "book": "FanDuel",
+   "odds": "-144",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "FanDuel is listing PIT ML -144 right now."
+  },
+  {
+   "id": "nhl-401892497-MIN-ML--105",
+   "date": "2026-10-13",
+   "game": "MIN @ WPG",
+   "pick": "MIN ML -105",
+   "market": "moneyline",
+   "book": "DraftKings",
+   "odds": "-105",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "DraftKings is listing MIN ML -105 right now."
+  },
+  {
+   "id": "nhl-401892498-DAL-ML--104",
+   "date": "2026-10-13",
+   "game": "COL @ DAL",
+   "pick": "DAL ML -104",
+   "market": "moneyline",
+   "book": "Book 71",
+   "odds": "-104",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "Book 71 is listing DAL ML -104 right now."
+  },
+  {
+   "id": "nhl-401892500-TOR-ML-+136",
+   "date": "2026-10-13",
+   "game": "TOR @ UTAH",
+   "pick": "TOR ML +136",
+   "market": "moneyline",
+   "book": "DraftKings",
+   "odds": "+136",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "DraftKings is listing TOR ML +136 right now."
+  },
+  {
+   "id": "nba-401901826-SAC-ML-+125",
+   "date": "2026-10-13",
+   "game": "POR @ SAC",
+   "pick": "SAC ML +125",
+   "market": "moneyline",
+   "book": "Book 71",
+   "odds": "+125",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "Book 71 is listing SAC ML +125 right now."
   }
  ]
 }
