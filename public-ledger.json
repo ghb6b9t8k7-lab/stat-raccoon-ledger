@@ -1,12 +1,12 @@
 {
  "schema": "stat-raccoon-public-ledger/1",
- "updated": "2026-10-17T09:14:00-04:00",
+ "updated": "2026-10-18T09:13:00-04:00",
  "record": {
-  "wins": 85,
-  "losses": 119,
+  "wins": 95,
+  "losses": 123,
   "pushes": 1,
-  "open": 19,
-  "units_net": -4.11
+  "open": 6,
+  "units_net": 0.81
  },
  "picks": [
   {
@@ -2627,9 +2627,10 @@
    "market": "moneyline",
    "book": "BetMGM",
    "odds": "-165",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "win",
+   "pnl_units": 0.3,
+   "final_score": "OSU 19, IU 15",
    "why": "BetMGM is listing OSU ML -165 right now."
   },
   {
@@ -2640,9 +2641,10 @@
    "market": "moneyline",
    "book": "FanDuel",
    "odds": "+310",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "win",
+   "pnl_units": 1.55,
+   "final_score": "FLA 27, TEX 24",
    "why": "FanDuel is listing FLA ML +310 right now."
   },
   {
@@ -2653,9 +2655,10 @@
    "market": "spread -8.5",
    "book": "BetMGM",
    "odds": "-108",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "win",
+   "pnl_units": 0.46,
+   "final_score": "SMU 23, UVA 13",
    "why": "BetMGM is listing SMU -8.5 -108 right now."
   },
   {
@@ -2666,9 +2669,10 @@
    "market": "spread -7.5",
    "book": "Book 123",
    "odds": "-107",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -0.5,
+   "final_score": "NU 24, MSU 21",
    "why": "Book 123 is listing NU -7.5 -107 right now."
   },
   {
@@ -2679,9 +2683,10 @@
    "market": "moneyline",
    "book": "FanDuel",
    "odds": "-118",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "win",
+   "pnl_units": 0.42,
+   "final_score": "WVU 45, CIN 42",
    "why": "FanDuel is listing WVU ML -118 right now."
   },
   {
@@ -3055,9 +3060,10 @@
    "market": "moneyline",
    "book": "DraftKings",
    "odds": "+210",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "win",
+   "pnl_units": 1.05,
+   "final_score": "BALL 32, BGSU 31",
    "why": "DraftKings is listing BALL ML +210 right now."
   },
   {
@@ -3068,9 +3074,10 @@
    "market": "moneyline",
    "book": "DraftKings",
    "odds": "+170",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "win",
+   "pnl_units": 0.85,
+   "final_score": "RUTG 37, MD 30",
    "why": "DraftKings is listing RUTG ML +170 right now."
   },
   {
@@ -3094,9 +3101,10 @@
    "market": "moneyline",
    "book": "Book 71",
    "odds": "+160",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -0.5,
+   "final_score": "FLA 8, SEA 3",
    "why": "Book 71 is listing SEA ML +160 right now."
   },
   {
@@ -3107,9 +3115,10 @@
    "market": "moneyline",
    "book": "Book 71",
    "odds": "+115",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "win",
+   "pnl_units": 0.57,
+   "final_score": "NYI 4, TOR 1",
    "why": "Book 71 is listing NYI ML +115 right now."
   },
   {
@@ -3120,9 +3129,10 @@
    "market": "moneyline",
    "book": "BetMGM",
    "odds": "+165",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -0.5,
+   "final_score": "DAL 4, CHI 0",
    "why": "BetMGM is listing CHI ML +165 right now."
   },
   {
@@ -3133,9 +3143,10 @@
    "market": "moneyline",
    "book": "Book 71",
    "odds": "+120",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "win",
+   "pnl_units": 1.2,
+   "final_score": "BOS 4, LA 1",
    "why": "Book 71 is listing BOS ML +120 right now."
   },
   {
@@ -3185,9 +3196,10 @@
    "market": "moneyline",
    "book": "FanDuel",
    "odds": "-162",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "win",
+   "pnl_units": 0.62,
+   "final_score": "KSU 35, KU 24",
    "why": "FanDuel is listing KSU ML -162 right now."
   },
   {
@@ -3198,9 +3210,10 @@
    "market": "moneyline",
    "book": "Book 123",
    "odds": "-125",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "win",
+   "pnl_units": 0.4,
+   "final_score": "ARMY 56, FAU 24",
    "why": "Book 123 is listing ARMY ML -125 right now."
   },
   {
@@ -3211,10 +3224,24 @@
    "market": "moneyline",
    "book": "FanDuel",
    "odds": "+240",
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -1,
+   "final_score": "BUFF 25, MASS 18",
+   "why": "FanDuel is listing MASS ML +240 right now."
+  },
+  {
+   "id": "mlb-401930515-CLE-ML-+117",
+   "date": "2026-10-18",
+   "game": "TB @ CLE",
+   "pick": "CLE ML +117",
+   "market": "moneyline",
+   "book": "Book 71",
+   "odds": "+117",
    "status": "open",
    "result": null,
    "pnl_units": null,
-   "why": "FanDuel is listing MASS ML +240 right now."
+   "why": "Book 71 is listing CLE ML +117 right now."
   }
  ]
 }
