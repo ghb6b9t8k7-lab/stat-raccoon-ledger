@@ -1,12 +1,12 @@
 {
  "schema": "stat-raccoon-public-ledger/1",
- "updated": "2026-10-20T09:14:00-04:00",
+ "updated": "2026-10-21T09:12:00-04:00",
  "record": {
-  "wins": 98,
-  "losses": 129,
+  "wins": 100,
+  "losses": 131,
   "pushes": 1,
   "open": 12,
-  "units_net": 0.94
+  "units_net": 1.78
  },
  "picks": [
   {
@@ -3299,9 +3299,10 @@
    "market": "moneyline",
    "book": "Book 71",
    "odds": "+340",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "win",
+   "pnl_units": 1.7,
+   "final_score": "MTSU 26, FIU 23",
    "why": "Book 71 is listing MTSU ML +340 right now."
   },
   {
@@ -3312,9 +3313,10 @@
    "market": "moneyline",
    "book": "Book 71",
    "odds": "+132",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -1,
+   "final_score": "DEL 61, MOST 38",
    "why": "Book 71 is listing MOST ML +132 right now."
   },
   {
@@ -3325,9 +3327,10 @@
    "market": "moneyline",
    "book": "Book 71",
    "odds": "+128",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "win",
+   "pnl_units": 0.64,
+   "final_score": "MRSH 20, USA 13",
    "why": "Book 71 is listing MRSH ML +128 right now."
   },
   {
@@ -3442,10 +3445,63 @@
    "market": "moneyline",
    "book": "Book 123",
    "odds": "+142",
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -0.5,
+   "final_score": "DAL 3, BOS 2",
+   "why": "Book 123 is listing BOS ML +142 right now."
+  },
+  {
+   "id": "nba-401909835-MIL-ML-+155",
+   "date": "2026-10-21",
+   "game": "MIL @ WSH",
+   "pick": "MIL ML +155",
+   "market": "moneyline",
+   "book": "Book 71",
+   "odds": "+155",
    "status": "open",
    "result": null,
    "pnl_units": null,
-   "why": "Book 123 is listing BOS ML +142 right now."
+   "why": "Book 71 is listing MIL ML +155 right now."
+  },
+  {
+   "id": "nba-401909837-CHI-ML-+350",
+   "date": "2026-10-21",
+   "game": "CHI @ TOR",
+   "pick": "CHI ML +350",
+   "market": "moneyline",
+   "book": "FanDuel",
+   "odds": "+350",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "FanDuel is listing CHI ML +350 right now."
+  },
+  {
+   "id": "nhl-401892550-PHI-ML-+158",
+   "date": "2026-10-21",
+   "game": "PHI @ BUF",
+   "pick": "PHI ML +158",
+   "market": "moneyline",
+   "book": "Book 123",
+   "odds": "+158",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "Book 123 is listing PHI ML +158 right now."
+  },
+  {
+   "id": "nfl-401873022-KC-ML-+124",
+   "date": "2026-10-21",
+   "game": "KC @ SEA",
+   "pick": "KC ML +124",
+   "market": "moneyline",
+   "book": "DraftKings",
+   "odds": "+124",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "DraftKings is listing KC ML +124 right now."
   }
  ]
 }
