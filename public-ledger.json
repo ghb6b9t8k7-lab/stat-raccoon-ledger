@@ -1,12 +1,12 @@
 {
  "schema": "stat-raccoon-public-ledger/1",
- "updated": "2026-10-26T09:20:00-04:00",
+ "updated": "2026-10-27T09:16:00-04:00",
  "record": {
-  "wins": 110,
-  "losses": 158,
+  "wins": 113,
+  "losses": 159,
   "pushes": 1,
   "open": 10,
-  "units_net": -1.99
+  "units_net": -0.51
  },
  "picks": [
   {
@@ -3873,9 +3873,10 @@
    "market": "moneyline",
    "book": "DraftKings",
    "odds": "+114",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "win",
+   "pnl_units": 0.57,
+   "final_score": "LA 6, NYR 3",
    "why": "DraftKings is listing LA ML +114 right now."
   },
   {
@@ -3886,9 +3887,10 @@
    "market": "moneyline",
    "book": "Consensus",
    "odds": "+320",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -0.5,
+   "final_score": "OKC 125, PHX 114",
    "why": "PHX ML +320 is the consensus price right now (check your book)."
   },
   {
@@ -3899,9 +3901,10 @@
    "market": "moneyline",
    "book": "DraftKings",
    "odds": "+130",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "win",
+   "pnl_units": 0.65,
+   "final_score": "CGY 5, TOR 2",
    "why": "DraftKings is listing CGY ML +130 right now."
   },
   {
@@ -3912,9 +3915,10 @@
    "market": "moneyline",
    "book": "FanDuel",
    "odds": "+152",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "win",
+   "pnl_units": 0.76,
+   "final_score": "DET 4, EDM 3",
    "why": "FanDuel is listing DET ML +152 right now."
   },
   {
@@ -3994,6 +3998,58 @@
    "result": null,
    "pnl_units": null,
    "why": "Book 71 is listing BC ML +265 right now."
+  },
+  {
+   "id": "nba-401909877-BKN-ML-+425",
+   "date": "2026-10-27",
+   "game": "BKN @ BOS",
+   "pick": "BKN ML +425",
+   "market": "moneyline",
+   "book": "Consensus",
+   "odds": "+425",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "BKN ML +425 is the consensus price right now (check your book)."
+  },
+  {
+   "id": "nba-401909878-DET-ML-+145",
+   "date": "2026-10-27",
+   "game": "DET @ NY",
+   "pick": "DET ML +145",
+   "market": "moneyline",
+   "book": "Book 71",
+   "odds": "+145",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "Book 71 is listing DET ML +145 right now."
+  },
+  {
+   "id": "nhl-401892586-BOS-ML-+170",
+   "date": "2026-10-27",
+   "game": "BOS @ CAR",
+   "pick": "BOS ML +170",
+   "market": "moneyline",
+   "book": "Book 71",
+   "odds": "+170",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "Book 71 is listing BOS ML +170 right now."
+  },
+  {
+   "id": "nhl-401892587-CHI-ML-+102",
+   "date": "2026-10-27",
+   "game": "LA @ CHI",
+   "pick": "CHI ML +102",
+   "market": "moneyline",
+   "book": "DraftKings",
+   "odds": "+102",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "DraftKings is listing CHI ML +102 right now."
   }
  ]
 }
