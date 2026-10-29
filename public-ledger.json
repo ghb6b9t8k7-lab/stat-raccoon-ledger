@@ -1,12 +1,12 @@
 {
  "schema": "stat-raccoon-public-ledger/1",
- "updated": "2026-10-28T09:14:00-04:00",
+ "updated": "2026-10-29T09:16:00-04:00",
  "record": {
-  "wins": 115,
-  "losses": 162,
+  "wins": 117,
+  "losses": 170,
   "pushes": 1,
-  "open": 19,
-  "units_net": -1.27
+  "open": 16,
+  "units_net": -4.54
  },
  "picks": [
   {
@@ -3943,9 +3943,10 @@
    "market": "moneyline",
    "book": "FanDuel",
    "odds": "-146",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "win",
+   "pnl_units": 0.34,
+   "final_score": "JXST 24, NMSU 0",
    "why": "FanDuel is listing JXST ML -146 right now."
   },
   {
@@ -4064,9 +4065,10 @@
    "market": "moneyline",
    "book": "Book 71",
    "odds": "+128",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "win",
+   "pnl_units": 0.64,
+   "final_score": "MIA 129, ATL 117",
    "why": "Book 71 is listing MIA ML +128 right now."
   },
   {
@@ -4077,9 +4079,10 @@
    "market": "moneyline",
    "book": "Consensus",
    "odds": "+310",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -0.5,
+   "final_score": "CLE 121, WSH 111",
    "why": "WSH ML +310 is the consensus price right now (check your book)."
   },
   {
@@ -4090,9 +4093,10 @@
    "market": "moneyline",
    "book": "Book 71",
    "odds": "+230",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -0.5,
+   "final_score": "DET 97, CHA 89",
    "why": "Book 71 is listing CHA ML +230 right now."
   },
   {
@@ -4103,9 +4107,10 @@
    "market": "moneyline",
    "book": "Consensus",
    "odds": "+220",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -0.5,
+   "final_score": "NY 133, CHI 127",
    "why": "CHI ML +220 is the consensus price right now (check your book)."
   },
   {
@@ -4116,9 +4121,10 @@
    "market": "moneyline",
    "book": "BetMGM",
    "odds": "+280",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -0.5,
+   "final_score": "HOU 132, MIL 100",
    "why": "BetMGM is listing MIL ML +280 right now."
   },
   {
@@ -4129,9 +4135,10 @@
    "market": "moneyline",
    "book": "Book 123",
    "odds": "+181",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -1,
+   "final_score": "EDM 4, CGY 0",
    "why": "Book 123 is listing CGY ML +181 right now."
   },
   {
@@ -4142,9 +4149,10 @@
    "market": "moneyline",
    "book": "Book 71",
    "odds": "+480",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -0.25,
+   "final_score": "SA 117, UTAH 111",
    "why": "Book 71 is listing UTAH ML +480 right now."
   },
   {
@@ -4155,9 +4163,10 @@
    "market": "moneyline",
    "book": "Book 123",
    "odds": "+149",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -0.5,
+   "final_score": "COL 5, NJ 2",
    "why": "Book 123 is listing NJ ML +149 right now."
   },
   {
@@ -4207,9 +4216,10 @@
    "market": "moneyline",
    "book": "BetMGM",
    "odds": "-135",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -0.5,
+   "final_score": "KENN 44, MTSU 28",
    "why": "BetMGM is listing MTSU ML -135 right now."
   },
   {
@@ -4237,6 +4247,97 @@
    "result": null,
    "pnl_units": null,
    "why": "Book 71 is listing UAB ML +280 right now."
+  },
+  {
+   "id": "nhl-401892603-CBJ-ML-+205",
+   "date": "2026-10-29",
+   "game": "CBJ @ CAR",
+   "pick": "CBJ ML +205",
+   "market": "moneyline",
+   "book": "FanDuel",
+   "odds": "+205",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "FanDuel is listing CBJ ML +205 right now."
+  },
+  {
+   "id": "nba-401909893-CLE-ML--105",
+   "date": "2026-10-29",
+   "game": "CLE @ ATL",
+   "pick": "CLE ML -105",
+   "market": "moneyline",
+   "book": "Consensus",
+   "odds": "-105",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "CLE ML -105 is the consensus price right now (check your book)."
+  },
+  {
+   "id": "nhl-401892604-BOS-ML--105",
+   "date": "2026-10-29",
+   "game": "BOS @ STL",
+   "pick": "BOS ML -105",
+   "market": "moneyline",
+   "book": "Consensus",
+   "odds": "-105",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "BOS ML -105 is the consensus price right now (check your book)."
+  },
+  {
+   "id": "nba-401909895-MEM-ML-+235",
+   "date": "2026-10-29",
+   "game": "MEM @ POR",
+   "pick": "MEM ML +235",
+   "market": "moneyline",
+   "book": "FanDuel",
+   "odds": "+235",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "FanDuel is listing MEM ML +235 right now."
+  },
+  {
+   "id": "nhl-401892610-VAN-ML-+161",
+   "date": "2026-10-29",
+   "game": "VAN @ SJ",
+   "pick": "VAN ML +161",
+   "market": "moneyline",
+   "book": "Book 123",
+   "odds": "+161",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "Book 123 is listing VAN ML +161 right now."
+  },
+  {
+   "id": "nfl-401873035-PHI-ML-+220",
+   "date": "2026-10-29",
+   "game": "PHI @ WSH",
+   "pick": "PHI ML +220",
+   "market": "moneyline",
+   "book": "BetMGM",
+   "odds": "+220",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "BetMGM is listing PHI ML +220 right now."
+  },
+  {
+   "id": "cfb-401856844-BAY-ML--102",
+   "date": "2026-10-29",
+   "game": "BAY @ UCF",
+   "pick": "BAY ML -102",
+   "market": "moneyline",
+   "book": "Book 123",
+   "odds": "-102",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "Book 123 is listing BAY ML -102 right now."
   }
  ]
 }
