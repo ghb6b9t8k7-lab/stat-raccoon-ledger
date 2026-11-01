@@ -1,12 +1,12 @@
 {
  "schema": "stat-raccoon-public-ledger/1",
- "updated": "2026-10-31T09:18:00-04:00",
+ "updated": "2026-11-01T09:06:00-05:00",
  "record": {
-  "wins": 120,
-  "losses": 176,
+  "wins": 122,
+  "losses": 192,
   "pushes": 1,
-  "open": 25,
-  "units_net": -4.77
+  "open": 7,
+  "units_net": -13.52
  },
  "picks": [
   {
@@ -3985,9 +3985,10 @@
    "market": "moneyline",
    "book": "BetMGM",
    "odds": "+145",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -0.5,
+   "final_score": "IOWA 30, WIS 0",
    "why": "BetMGM is listing WIS ML +145 right now."
   },
   {
@@ -3998,9 +3999,10 @@
    "market": "moneyline",
    "book": "Book 71",
    "odds": "+265",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -0.5,
+   "final_score": "DUKE 47, BC 2",
    "why": "Book 71 is listing BC ML +265 right now."
   },
   {
@@ -4232,9 +4234,10 @@
    "market": "moneyline",
    "book": "Book 71",
    "odds": "+310",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "win",
+   "pnl_units": 1.55,
+   "final_score": "SYR 30, SMU 27",
    "why": "Book 71 is listing SYR ML +310 right now."
   },
   {
@@ -4245,9 +4248,10 @@
    "market": "moneyline",
    "book": "Book 71",
    "odds": "+280",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -0.5,
+   "final_score": "USF 30, UAB 10",
    "why": "Book 71 is listing UAB ML +280 right now."
   },
   {
@@ -4369,9 +4373,10 @@
    "market": "moneyline",
    "book": "Consensus",
    "odds": "+145",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -0.5,
+   "final_score": "TTU 34, ARIZ 26",
    "why": "ARIZ ML +145 is the consensus price right now (check your book)."
   },
   {
@@ -4382,9 +4387,10 @@
    "market": "moneyline",
    "book": "DraftKings",
    "odds": "+360",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -0.5,
+   "final_score": "MISS 45, AUB 15",
    "why": "DraftKings is listing AUB ML +360 right now."
   },
   {
@@ -4395,9 +4401,10 @@
    "market": "moneyline",
    "book": "Consensus",
    "odds": "+105",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -1,
+   "final_score": "COLO 27, KSU 24",
    "why": "KSU ML +105 is the consensus price right now (check your book)."
   },
   {
@@ -4408,9 +4415,10 @@
    "market": "moneyline",
    "book": "Book 71",
    "odds": "+205",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -1,
+   "final_score": "BOS 5, CHI 4",
    "why": "Book 71 is listing CHI ML +205 right now."
   },
   {
@@ -4421,9 +4429,10 @@
    "market": "moneyline",
    "book": "Book 71",
    "odds": "+115",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -0.5,
+   "final_score": "EDM 4, NYI 0",
    "why": "Book 71 is listing NYI ML +115 right now."
   },
   {
@@ -4434,9 +4443,10 @@
    "market": "moneyline",
    "book": "Book 71",
    "odds": "+130",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -1,
+   "final_score": "MTL 5, PIT 4",
    "why": "Book 71 is listing PIT ML +130 right now."
   },
   {
@@ -4447,9 +4457,10 @@
    "market": "moneyline",
    "book": "FanDuel",
    "odds": "+270",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -0.5,
+   "final_score": "CLE 136, MIL 111",
    "why": "FanDuel is listing MIL ML +270 right now."
   },
   {
@@ -4460,9 +4471,10 @@
    "market": "moneyline",
    "book": "FanDuel",
    "odds": "+440",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -0.25,
+   "final_score": "SA 121, MIN 111",
    "why": "FanDuel is listing MIN ML +440 right now."
   },
   {
@@ -4473,9 +4485,10 @@
    "market": "moneyline",
    "book": "DraftKings",
    "odds": "+160",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -1,
+   "final_score": "DAL 3, CBJ 1",
    "why": "DraftKings is listing CBJ ML +160 right now."
   },
   {
@@ -4486,9 +4499,10 @@
    "market": "moneyline",
    "book": "Book 71",
    "odds": "+370",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -0.5,
+   "final_score": "COL 5, CGY 2",
    "why": "Book 71 is listing CGY ML +370 right now."
   },
   {
@@ -4538,9 +4552,10 @@
    "market": "moneyline",
    "book": "FanDuel",
    "odds": "-162",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -1,
+   "final_score": "CCU 31, GAST 20",
    "why": "FanDuel is listing GAST ML -162 right now."
   },
   {
@@ -4551,9 +4566,10 @@
    "market": "moneyline",
    "book": "BetMGM",
    "odds": "-105",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "win",
+   "pnl_units": 0.95,
+   "final_score": "AFA 35, CONN 26",
    "why": "BetMGM is listing AFA ML -105 right now."
   },
   {
@@ -4564,9 +4580,10 @@
    "market": "moneyline",
    "book": "DraftKings",
    "odds": "+164",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -1,
+   "final_score": "ECU 17, TEM 9",
    "why": "DraftKings is listing TEM ML +164 right now."
   },
   {
@@ -4577,9 +4594,10 @@
    "market": "moneyline",
    "book": "DraftKings",
    "odds": "+200",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -1,
+   "final_score": "LT 35, USA 20",
    "why": "DraftKings is listing USA ML +200 right now."
   }
  ]
