@@ -1,12 +1,12 @@
 {
  "schema": "stat-raccoon-public-ledger/1",
- "updated": "2026-11-05T09:16:00-05:00",
+ "updated": "2026-11-06T09:27:00-05:00",
  "record": {
-  "wins": 128,
-  "losses": 209,
+  "wins": 131,
+  "losses": 211,
   "pushes": 1,
   "open": 20,
-  "units_net": -15.01
+  "units_net": -12.62
  },
  "picks": [
   {
@@ -4769,9 +4769,10 @@
    "market": "moneyline",
    "book": "Book 123",
    "odds": "+215",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "win",
+   "pnl_units": 2.15,
+   "final_score": "FAU 60, UTSA 29",
    "why": "Book 123 is listing FAU ML +215 right now."
   },
   {
@@ -4995,9 +4996,10 @@
    "market": "moneyline",
    "book": "Book 71",
    "odds": "+350",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -0.5,
+   "final_score": "TB 4, CHI 1",
    "why": "Book 71 is listing CHI ML +350 right now."
   },
   {
@@ -5008,9 +5010,10 @@
    "market": "moneyline",
    "book": "DraftKings",
    "odds": "+130",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -1,
+   "final_score": "NYR 3, PHI 2",
    "why": "DraftKings is listing PHI ML +130 right now."
   },
   {
@@ -5021,9 +5024,10 @@
    "market": "moneyline",
    "book": "Book 71",
    "odds": "-104",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "win",
+   "pnl_units": 0.96,
+   "final_score": "BOS 6, PIT 2",
    "why": "Book 71 is listing BOS ML -104 right now."
   },
   {
@@ -5034,9 +5038,10 @@
    "market": "moneyline",
    "book": "FanDuel",
    "odds": "+155",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "win",
+   "pnl_units": 0.78,
+   "final_score": "ANA 5, EDM 4",
    "why": "FanDuel is listing ANA ML +155 right now."
   },
   {
@@ -5090,6 +5095,71 @@
    "result": null,
    "pnl_units": null,
    "why": "DraftKings is listing TB ML +245 right now."
+  },
+  {
+   "id": "nba-401909287-WSH-ML-+240",
+   "date": "2026-11-06",
+   "game": "WSH @ ATL",
+   "pick": "WSH ML +240",
+   "market": "moneyline",
+   "book": "FanDuel",
+   "odds": "+240",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "FanDuel is listing WSH ML +240 right now."
+  },
+  {
+   "id": "nhl-401892659-CBJ-ML-+143",
+   "date": "2026-11-06",
+   "game": "CBJ @ BUF",
+   "pick": "CBJ ML +143",
+   "market": "moneyline",
+   "book": "Consensus",
+   "odds": "+143",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "CBJ ML +143 is the consensus price right now (check your book)."
+  },
+  {
+   "id": "nba-401909292-MIL-ML-+211",
+   "date": "2026-11-06",
+   "game": "TOR @ MIL",
+   "pick": "MIL ML +211",
+   "market": "moneyline",
+   "book": "DraftKings",
+   "odds": "+211",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "DraftKings is listing MIL ML +211 right now."
+  },
+  {
+   "id": "cfb-401858515-MD-ML-+185",
+   "date": "2026-11-06",
+   "game": "MD @ PUR",
+   "pick": "MD ML +185",
+   "market": "moneyline",
+   "book": "DraftKings",
+   "odds": "+185",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "DraftKings is listing MD ML +185 right now."
+  },
+  {
+   "id": "cfb-401856738-ARK-ML-+310",
+   "date": "2026-11-06",
+   "game": "ARK @ AUB",
+   "pick": "ARK ML +310",
+   "market": "moneyline",
+   "book": "FanDuel",
+   "odds": "+310",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "FanDuel is listing ARK ML +310 right now."
   }
  ]
 }
