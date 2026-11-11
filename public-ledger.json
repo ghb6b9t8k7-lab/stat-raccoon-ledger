@@ -1,12 +1,12 @@
 {
  "schema": "stat-raccoon-public-ledger/1",
- "updated": "2026-11-10T09:51:52-05:00",
+ "updated": "2026-11-11T09:11:56-05:00",
  "record": {
-  "wins": 139,
-  "losses": 244,
+  "wins": 140,
+  "losses": 246,
   "pushes": 1,
-  "open": 9,
-  "units_net": -20.63
+  "open": 13,
+  "units_net": -20.95
  },
  "picks": [
   {
@@ -5483,9 +5483,10 @@
    "market": "moneyline",
    "book": "Consensus",
    "odds": "+180",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -0.5,
+   "final_score": "BGSU 33, KENT 28",
    "why": "KENT ML +180 is the consensus price right now (check your book)."
   },
   {
@@ -5561,9 +5562,10 @@
    "market": "moneyline",
    "book": "BetMGM",
    "odds": "+105",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -1,
+   "final_score": "WSH 3, OTT 2",
    "why": "BetMGM is listing OTT ML +105 right now."
   },
   {
@@ -5574,9 +5576,10 @@
    "market": "moneyline",
    "book": "Book 71",
    "odds": "+118",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "win",
+   "pnl_units": 1.18,
+   "final_score": "NSH 3, LA 0",
    "why": "Book 71 is listing NSH ML +118 right now."
   },
   {
@@ -5591,6 +5594,97 @@
    "result": null,
    "pnl_units": null,
    "why": "FanDuel is listing MEM ML -178 right now."
+  },
+  {
+   "id": "nhl-401892691-CGY-ML-+124",
+   "date": "2026-11-11",
+   "game": "NYR @ CGY",
+   "pick": "CGY ML +124",
+   "market": "moneyline",
+   "book": "DraftKings",
+   "odds": "+124",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "DraftKings is listing CGY ML +124 right now."
+  },
+  {
+   "id": "nba-401909969-CHI-ML-+750",
+   "date": "2026-11-11",
+   "game": "SA @ CHI",
+   "pick": "CHI ML +750",
+   "market": "moneyline",
+   "book": "FanDuel",
+   "odds": "+750",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "FanDuel is listing CHI ML +750 right now."
+  },
+  {
+   "id": "nba-401909972-BKN-ML-+156",
+   "date": "2026-11-11",
+   "game": "BKN @ NO",
+   "pick": "BKN ML +156",
+   "market": "moneyline",
+   "book": "FanDuel",
+   "odds": "+156",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "FanDuel is listing BKN ML +156 right now."
+  },
+  {
+   "id": "nhl-401892692-PHI-ML-+176",
+   "date": "2026-11-11",
+   "game": "PHI @ EDM",
+   "pick": "PHI ML +176",
+   "market": "moneyline",
+   "book": "FanDuel",
+   "odds": "+176",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "FanDuel is listing PHI ML +176 right now."
+  },
+  {
+   "id": "nba-401909974-GS-ML-+198",
+   "date": "2026-11-11",
+   "game": "GS @ HOU",
+   "pick": "GS ML +198",
+   "market": "moneyline",
+   "book": "FanDuel",
+   "odds": "+198",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "FanDuel is listing GS ML +198 right now."
+  },
+  {
+   "id": "nfl-401873062-LV-ML-+245",
+   "date": "2026-11-11",
+   "game": "SEA @ LV",
+   "pick": "LV ML +245",
+   "market": "moneyline",
+   "book": "FanDuel",
+   "odds": "+245",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "FanDuel is listing LV ML +245 right now."
+  },
+  {
+   "id": "nfl-401873065-LAC-ML-+190",
+   "date": "2026-11-11",
+   "game": "LAC @ BAL",
+   "pick": "LAC ML +190",
+   "market": "moneyline",
+   "book": "FanDuel",
+   "odds": "+190",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "FanDuel is listing LAC ML +190 right now."
   }
  ]
 }
