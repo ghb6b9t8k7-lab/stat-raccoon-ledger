@@ -1,12 +1,12 @@
 {
  "schema": "stat-raccoon-public-ledger/1",
- "updated": "2026-11-13T09:04:48-05:00",
+ "updated": "2026-11-14T09:08:00-05:00",
  "record": {
-  "wins": 142,
-  "losses": 254,
+  "wins": 145,
+  "losses": 257,
   "pushes": 1,
   "open": 10,
-  "units_net": -24.14
+  "units_net": -21.34
  },
  "picks": [
   {
@@ -5511,9 +5511,10 @@
    "market": "moneyline",
    "book": "FanDuel",
    "odds": "+310",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -0.5,
+   "final_score": "UCLA 22, ILL 14",
    "why": "FanDuel is listing ILL ML +310 right now."
   },
   {
@@ -5524,9 +5525,10 @@
    "market": "moneyline",
    "book": "Book 71",
    "odds": "+325",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "win",
+   "pnl_units": 1.62,
+   "final_score": "COLO 42, HOU 32",
    "why": "Book 71 is listing COLO ML +325 right now."
   },
   {
@@ -5743,9 +5745,10 @@
    "market": "moneyline",
    "book": "DraftKings",
    "odds": "+217",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "win",
+   "pnl_units": 1.08,
+   "final_score": "CHI 125, ATL 117",
    "why": "DraftKings is listing CHI ML +217 right now."
   },
   {
@@ -5756,9 +5759,10 @@
    "market": "moneyline",
    "book": "FanDuel",
    "odds": "+870",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -0.25,
+   "final_score": "HOU 125, UTAH 118",
    "why": "FanDuel is listing UTAH ML +870 right now."
   },
   {
@@ -5769,9 +5773,10 @@
    "market": "moneyline",
    "book": "FanDuel",
    "odds": "+400",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -0.25,
+   "final_score": "POR 120, SAC 107",
    "why": "FanDuel is listing SAC ML +400 right now."
   },
   {
@@ -5782,10 +5787,89 @@
    "market": "moneyline",
    "book": "DraftKings",
    "odds": "+220",
+   "status": "settled",
+   "result": "win",
+   "pnl_units": 1.1,
+   "final_score": "LAC 113, OKC 112",
+   "why": "DraftKings is listing LAC ML +220 right now."
+  },
+  {
+   "id": "cfb-401856862-KSU-ML-+390",
+   "date": "2026-11-14",
+   "game": "KSU @ TCU",
+   "pick": "KSU ML",
+   "market": "moneyline",
+   "book": "DraftKings",
+   "odds": "+390",
    "status": "open",
    "result": null,
    "pnl_units": null,
-   "why": "DraftKings is listing LAC ML +220 right now."
+   "why": "DraftKings is listing KSU ML +390 right now."
+  },
+  {
+   "id": "nhl-401892710-EDM-ML--148",
+   "date": "2026-11-14",
+   "game": "EDM @ TOR",
+   "pick": "EDM ML",
+   "market": "moneyline",
+   "book": "DraftKings",
+   "odds": "-148",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "DraftKings is listing EDM ML -148 right now."
+  },
+  {
+   "id": "nba-401909982-MIA-ML-+164",
+   "date": "2026-11-14",
+   "game": "DET @ MIA",
+   "pick": "MIA ML",
+   "market": "moneyline",
+   "book": "FanDuel",
+   "odds": "+164",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "FanDuel is listing MIA ML +164 right now."
+  },
+  {
+   "id": "nba-401909983-BKN-ML-+140",
+   "date": "2026-11-14",
+   "game": "BKN @ MEM",
+   "pick": "BKN ML",
+   "market": "moneyline",
+   "book": "DraftKings",
+   "odds": "+140",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "DraftKings is listing BKN ML +140 right now."
+  },
+  {
+   "id": "nhl-401892718-SJ-ML-+170",
+   "date": "2026-11-14",
+   "game": "SJ @ UTAH",
+   "pick": "SJ ML",
+   "market": "moneyline",
+   "book": "DraftKings",
+   "odds": "+170",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "DraftKings is listing SJ ML +170 right now."
+  },
+  {
+   "id": "nfl-401873056-CLE-ML-+195",
+   "date": "2026-11-14",
+   "game": "HOU @ CLE",
+   "pick": "CLE ML",
+   "market": "moneyline",
+   "book": "DraftKings",
+   "odds": "+195",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "DraftKings is listing CLE ML +195 right now."
   }
  ]
 }
