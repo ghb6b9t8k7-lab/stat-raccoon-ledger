@@ -1,12 +1,12 @@
 {
  "schema": "stat-raccoon-public-ledger/1",
- "updated": "2026-11-15T09:11:48-05:00",
+ "updated": "2026-11-16T09:11:56-05:00",
  "record": {
-  "wins": 149,
-  "losses": 260,
+  "wins": 150,
+  "losses": 261,
   "pushes": 1,
-  "open": 3,
-  "units_net": -20.13
+  "open": 10,
+  "units_net": -20.16
  },
  "picks": [
   {
@@ -5679,9 +5679,10 @@
    "market": "moneyline",
    "book": "FanDuel",
    "odds": "+245",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -1,
+   "final_score": "SEA 21, LV 13",
    "why": "FanDuel is listing LV ML +245 right now."
   },
   {
@@ -5873,10 +5874,128 @@
    "market": "moneyline",
    "book": "DraftKings",
    "odds": "+195",
+   "status": "settled",
+   "result": "win",
+   "pnl_units": 0.97,
+   "final_score": "CLE 27, HOU 24",
+   "why": "DraftKings is listing CLE ML +195 right now."
+  },
+  {
+   "id": "nba-401909994-ORL-ML-+287",
+   "date": "2026-11-16",
+   "game": "ORL @ BOS",
+   "pick": "ORL ML +287",
+   "market": "moneyline",
+   "book": "DraftKings",
+   "odds": "+287",
    "status": "open",
    "result": null,
    "pnl_units": null,
-   "why": "DraftKings is listing CLE ML +195 right now."
+   "why": "DraftKings is listing ORL ML +287 right now."
+  },
+  {
+   "id": "nba-401909995-CHI-ML-+311",
+   "date": "2026-11-16",
+   "game": "CHI @ CLE",
+   "pick": "CHI ML +311",
+   "market": "moneyline",
+   "book": "DraftKings",
+   "odds": "+311",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "DraftKings is listing CHI ML +311 right now."
+  },
+  {
+   "id": "nba-401909997-BKN-ML-+188",
+   "date": "2026-11-16",
+   "game": "PHI @ BKN",
+   "pick": "BKN ML +188",
+   "market": "moneyline",
+   "book": "FanDuel",
+   "odds": "+188",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "FanDuel is listing BKN ML +188 right now."
+  },
+  {
+   "id": "nba-401909998-MIA-ML-+124",
+   "date": "2026-11-16",
+   "game": "HOU @ MIA",
+   "pick": "MIA ML +124",
+   "market": "moneyline",
+   "book": "DraftKings",
+   "odds": "+124",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "DraftKings is listing MIA ML +124 right now."
+  },
+  {
+   "id": "nba-401910001-PHX-ML-+331",
+   "date": "2026-11-16",
+   "game": "PHX @ DEN",
+   "pick": "PHX ML +331",
+   "market": "moneyline",
+   "book": "DraftKings",
+   "odds": "+331",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "DraftKings is listing PHX ML +331 right now."
+  },
+  {
+   "id": "nhl-401892727-VAN-ML-+270",
+   "date": "2026-11-16",
+   "game": "VAN @ UTAH",
+   "pick": "VAN ML +270",
+   "market": "moneyline",
+   "book": "FanDuel",
+   "odds": "+270",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "FanDuel is listing VAN ML +270 right now."
+  },
+  {
+   "id": "cfb-401858303-CLEM-ML-+390",
+   "date": "2026-11-16",
+   "game": "CLEM @ DUKE",
+   "pick": "CLEM ML +390",
+   "market": "moneyline",
+   "book": "DraftKings",
+   "odds": "+390",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "DraftKings is listing CLEM ML +390 right now."
+  },
+  {
+   "id": "cfb-401864542-WYO-ML-+245",
+   "date": "2026-11-16",
+   "game": "UNM @ WYO",
+   "pick": "WYO ML +245",
+   "market": "moneyline",
+   "book": "DraftKings",
+   "odds": "+245",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "DraftKings is listing WYO ML +245 right now."
+  },
+  {
+   "id": "cfb-401856748-VAN-ML-+410",
+   "date": "2026-11-16",
+   "game": "VAN @ FLA",
+   "pick": "VAN ML +410",
+   "market": "moneyline",
+   "book": "DraftKings",
+   "odds": "+410",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "DraftKings is listing VAN ML +410 right now."
   }
  ]
 }
