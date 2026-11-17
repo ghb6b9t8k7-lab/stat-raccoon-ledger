@@ -1,12 +1,12 @@
 {
  "schema": "stat-raccoon-public-ledger/1",
- "updated": "2026-11-16T09:11:56-05:00",
+ "updated": "2026-11-17T09:03:09-05:00",
  "record": {
-  "wins": 150,
-  "losses": 261,
+  "wins": 155,
+  "losses": 263,
   "pushes": 1,
-  "open": 10,
-  "units_net": -20.16
+  "open": 4,
+  "units_net": -14.19
  },
  "picks": [
   {
@@ -5693,9 +5693,10 @@
    "market": "moneyline",
    "book": "FanDuel",
    "odds": "+190",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "win",
+   "pnl_units": 1.9,
+   "final_score": "LAC 23, BAL 20",
    "why": "FanDuel is listing LAC ML +190 right now."
   },
   {
@@ -5888,9 +5889,10 @@
    "market": "moneyline",
    "book": "DraftKings",
    "odds": "+287",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "win",
+   "pnl_units": 1.44,
+   "final_score": "ORL 115, BOS 105",
    "why": "DraftKings is listing ORL ML +287 right now."
   },
   {
@@ -5901,9 +5903,10 @@
    "market": "moneyline",
    "book": "DraftKings",
    "odds": "+311",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -0.5,
+   "final_score": "CLE 126, CHI 115",
    "why": "DraftKings is listing CHI ML +311 right now."
   },
   {
@@ -5914,9 +5917,10 @@
    "market": "moneyline",
    "book": "FanDuel",
    "odds": "+188",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -0.5,
+   "final_score": "PHI 135, BKN 123",
    "why": "FanDuel is listing BKN ML +188 right now."
   },
   {
@@ -5927,9 +5931,10 @@
    "market": "moneyline",
    "book": "DraftKings",
    "odds": "+124",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "win",
+   "pnl_units": 0.62,
+   "final_score": "MIA 128, HOU 110",
    "why": "DraftKings is listing MIA ML +124 right now."
   },
   {
@@ -5940,9 +5945,10 @@
    "market": "moneyline",
    "book": "DraftKings",
    "odds": "+331",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "win",
+   "pnl_units": 1.66,
+   "final_score": "PHX 117, DEN 105",
    "why": "DraftKings is listing PHX ML +331 right now."
   },
   {
@@ -5953,9 +5959,10 @@
    "market": "moneyline",
    "book": "FanDuel",
    "odds": "+270",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "win",
+   "pnl_units": 1.35,
+   "final_score": "VAN 3, UTA 2",
    "why": "FanDuel is listing VAN ML +270 right now."
   },
   {
@@ -5996,6 +6003,19 @@
    "result": null,
    "pnl_units": null,
    "why": "DraftKings is listing VAN ML +410 right now."
+  },
+  {
+   "id": "nhl-401892733-CHI-ML-+130",
+   "date": "2026-11-17",
+   "game": "TOR @ CHI",
+   "pick": "CHI ML +130",
+   "market": "moneyline",
+   "book": "DraftKings",
+   "odds": "+130",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "DraftKings is listing CHI ML +130 right now."
   }
  ]
 }
