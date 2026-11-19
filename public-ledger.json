@@ -1,12 +1,12 @@
 {
  "schema": "stat-raccoon-public-ledger/1",
- "updated": "2026-11-17T09:03:09-05:00",
+ "updated": "2026-11-18T09:12:00-05:00",
  "record": {
-  "wins": 155,
+  "wins": 156,
   "losses": 263,
   "pushes": 1,
-  "open": 4,
-  "units_net": -14.19
+  "open": 14,
+  "units_net": -12.89
  },
  "picks": [
   {
@@ -6012,10 +6012,154 @@
    "market": "moneyline",
    "book": "DraftKings",
    "odds": "+130",
+   "status": "settled",
+   "result": "win",
+   "pnl_units": 1.3,
+   "final_score": "CHI 6, TOR 3",
+   "why": "DraftKings is listing CHI ML +130 right now."
+  },
+  {
+   "id": "nba-401910008-IND-ML-+247",
+   "date": "2026-11-18",
+   "game": "HOU @ IND",
+   "pick": "IND ML +247",
+   "market": "moneyline",
+   "book": "DraftKings",
+   "odds": "+247",
    "status": "open",
    "result": null,
    "pnl_units": null,
-   "why": "DraftKings is listing CHI ML +130 right now."
+   "why": "DraftKings is listing IND ML +247 right now."
+  },
+  {
+   "id": "nba-401910009-MIL-ML-+505",
+   "date": "2026-11-18",
+   "game": "MIL @ MIA",
+   "pick": "MIL ML +505",
+   "market": "moneyline",
+   "book": "DraftKings",
+   "odds": "+505",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "DraftKings is listing MIL ML +505 right now."
+  },
+  {
+   "id": "nba-401910011-CHI-ML-+128",
+   "date": "2026-11-18",
+   "game": "CHI @ BKN",
+   "pick": "CHI ML +128",
+   "market": "moneyline",
+   "book": "DraftKings",
+   "odds": "+128",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "DraftKings is listing CHI ML +128 right now."
+  },
+  {
+   "id": "nba-401910013-NO-ML-+227",
+   "date": "2026-11-18",
+   "game": "DET @ NO",
+   "pick": "NO ML +227",
+   "market": "moneyline",
+   "book": "DraftKings",
+   "odds": "+227",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "DraftKings is listing NO ML +227 right now."
+  },
+  {
+   "id": "nba-401910014-ATL-ML-+221",
+   "date": "2026-11-18",
+   "game": "ATL @ OKC",
+   "pick": "ATL ML +221",
+   "market": "moneyline",
+   "book": "DraftKings",
+   "odds": "+221",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "DraftKings is listing ATL ML +221 right now."
+  },
+  {
+   "id": "nba-401910017-UTAH-ML-+359",
+   "date": "2026-11-18",
+   "game": "UTAH @ LAL",
+   "pick": "UTAH ML +359",
+   "market": "moneyline",
+   "book": "DraftKings",
+   "odds": "+359",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "DraftKings is listing UTAH ML +359 right now."
+  },
+  {
+   "id": "nba-401910018-SAC-ML-+220",
+   "date": "2026-11-18",
+   "game": "PHX @ SAC",
+   "pick": "SAC ML +220",
+   "market": "moneyline",
+   "book": "DraftKings",
+   "odds": "+220",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "DraftKings is listing SAC ML +220 right now."
+  },
+  {
+   "id": "nfl-401873066-IND-ML-+540",
+   "date": "2026-11-18",
+   "game": "IND @ HOU",
+   "pick": "IND ML +540",
+   "market": "moneyline",
+   "book": "FanDuel",
+   "odds": "+540",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "FanDuel is listing IND ML +540 right now."
+  },
+  {
+   "id": "nfl-401873071-NO-ML-+520",
+   "date": "2026-11-18",
+   "game": "NO @ CHI",
+   "pick": "NO ML +520",
+   "market": "moneyline",
+   "book": "FanDuel",
+   "odds": "+520",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "FanDuel is listing NO ML +520 right now."
+  },
+  {
+   "id": "nfl-401873073-TEN-ML-+350",
+   "date": "2026-11-18",
+   "game": "TEN @ DAL",
+   "pick": "TEN ML +350",
+   "market": "moneyline",
+   "book": "FanDuel",
+   "odds": "+350",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "FanDuel is listing TEN ML +350 right now."
+  },
+  {
+   "id": "nfl-401873069-NYG-ML-+215",
+   "date": "2026-11-18",
+   "game": "JAX @ NYG",
+   "pick": "NYG ML +215",
+   "market": "moneyline",
+   "book": "DraftKings",
+   "odds": "+215",
+   "status": "open",
+   "result": null,
+   "pnl_units": null,
+   "why": "DraftKings is listing NYG ML +215 right now."
   }
  ]
 }
