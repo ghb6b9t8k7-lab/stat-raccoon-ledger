@@ -1,12 +1,12 @@
 {
  "schema": "stat-raccoon-public-ledger/1",
- "updated": "2026-11-18T09:12:00-05:00",
+ "updated": "2026-11-19T09:10:00-05:00",
  "record": {
-  "wins": 156,
-  "losses": 263,
+  "wins": 159,
+  "losses": 267,
   "pushes": 1,
-  "open": 14,
-  "units_net": -12.89
+  "open": 7,
+  "units_net": -11
  },
  "picks": [
   {
@@ -6026,9 +6026,10 @@
    "market": "moneyline",
    "book": "DraftKings",
    "odds": "+247",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -1,
+   "final_score": "HOU 119, IND 104",
    "why": "DraftKings is listing IND ML +247 right now."
   },
   {
@@ -6039,9 +6040,10 @@
    "market": "moneyline",
    "book": "DraftKings",
    "odds": "+505",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -0.25,
+   "final_score": "MIA 137, MIL 130",
    "why": "DraftKings is listing MIL ML +505 right now."
   },
   {
@@ -6052,9 +6054,10 @@
    "market": "moneyline",
    "book": "DraftKings",
    "odds": "+128",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "win",
+   "pnl_units": 0.64,
+   "final_score": "CHI 137, BKN 107",
    "why": "DraftKings is listing CHI ML +128 right now."
   },
   {
@@ -6065,9 +6068,10 @@
    "market": "moneyline",
    "book": "DraftKings",
    "odds": "+227",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -1,
+   "final_score": "DET 122, NO 109",
    "why": "DraftKings is listing NO ML +227 right now."
   },
   {
@@ -6078,9 +6082,10 @@
    "market": "moneyline",
    "book": "DraftKings",
    "odds": "+221",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "win",
+   "pnl_units": 2.21,
+   "final_score": "ATL 117, OKC 112",
    "why": "DraftKings is listing ATL ML +221 right now."
   },
   {
@@ -6091,9 +6096,10 @@
    "market": "moneyline",
    "book": "DraftKings",
    "odds": "+359",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "win",
+   "pnl_units": 1.79,
+   "final_score": "UTAH 109, LAL 97",
    "why": "DraftKings is listing UTAH ML +359 right now."
   },
   {
@@ -6104,9 +6110,10 @@
    "market": "moneyline",
    "book": "DraftKings",
    "odds": "+220",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -0.5,
+   "final_score": "PHX 128, SAC 107",
    "why": "DraftKings is listing SAC ML +220 right now."
   },
   {
