@@ -1,12 +1,12 @@
 {
  "schema": "stat-raccoon-public-ledger/1",
- "updated": "2026-11-21T09:10:00-05:00",
+ "updated": "2026-11-22T09:10:47-05:00",
  "record": {
   "wins": 160,
-  "losses": 269,
+  "losses": 270,
   "pushes": 1,
-  "open": 4,
-  "units_net": -9.8
+  "open": 3,
+  "units_net": -10.05
  },
  "picks": [
   {
@@ -6001,9 +6001,10 @@
    "market": "moneyline",
    "book": "DraftKings",
    "odds": "+410",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -0.25,
+   "final_score": "FLA 34, VAN 27",
    "why": "DraftKings is listing VAN ML +410 right now."
   },
   {
