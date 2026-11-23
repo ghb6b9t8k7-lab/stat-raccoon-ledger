@@ -1,12 +1,12 @@
 {
  "schema": "stat-raccoon-public-ledger/1",
- "updated": "2026-11-22T09:10:47-05:00",
+ "updated": "2026-11-23T09:15:00-05:00",
  "record": {
-  "wins": 160,
-  "losses": 270,
+  "wins": 161,
+  "losses": 272,
   "pushes": 1,
-  "open": 3,
-  "units_net": -10.05
+  "open": 0,
+  "units_net": -9.73
  },
  "picks": [
   {
@@ -6141,9 +6141,10 @@
    "market": "moneyline",
    "book": "FanDuel",
    "odds": "+520",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -0.25,
+   "final_score": "CHI 21, NO 13",
    "why": "FanDuel is listing NO ML +520 right now."
   },
   {
@@ -6154,9 +6155,10 @@
    "market": "moneyline",
    "book": "FanDuel",
    "odds": "+350",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "loss",
+   "pnl_units": -0.5,
+   "final_score": "DAL 51, TEN 30",
    "why": "FanDuel is listing TEN ML +350 right now."
   },
   {
@@ -6167,9 +6169,10 @@
    "market": "moneyline",
    "book": "DraftKings",
    "odds": "+215",
-   "status": "open",
-   "result": null,
-   "pnl_units": null,
+   "status": "settled",
+   "result": "win",
+   "pnl_units": 1.07,
+   "final_score": "NYG 23, JAX 18",
    "why": "DraftKings is listing NYG ML +215 right now."
   }
  ]
